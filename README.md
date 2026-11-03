@@ -3,7 +3,7 @@
 This project is a database of 50 US-based Frontier AI companies that provides structured foundation for tracking their recent news and changes. It pairs Gemini data with Clay's AI to check every fact against official sources to an interactive workbook and exportable CSV.
 ## 🛠️ Tools <br>
 Gemini, Clay <p>
-## Workflow <br>
+## 🔀 Workflow <br>
 Gemini → Clay <p>
 ## 🗄️ Columns <br>
 <ul>
