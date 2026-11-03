@@ -3,6 +3,20 @@
 This project is a database of 50 US-based Frontier AI companies. It pairs data with AI, used to check every fact against official sources, delivering an interactive workbook and exportable CSV. The dataset provides a structured foundation for tracking recent news and changes across the companies.
 ## 🛠️ Tools <br>
 Clay <p>
+## 🗄️ Columns <br>
+<ul>
+  <li>Name</li>
+  <li>Website URL</li>
+  <li>Location</li>
+  <li>Company Type</li>
+  <li>Primary Focus</li>
+  <li>Company Size</li>
+  <li>Ownership Status</li>
+  <li>Key Product</li>
+  <li>Monetization Model</li>
+  <li>Expansion Focus</li>
+</ul>
+
 ## 🖼️ Images <br>
 <table>
   <tr>
