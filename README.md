@@ -5,6 +5,8 @@ This project is a database of 50 US-based Frontier AI companies that provides st
 Gemini, Clay <p>
 ## 🔀 Workflow <br>
 Gemini → Clay <p>
+## ⚙️ Model <br>
+Gemini 3 <p>
 ## 🗄️ Columns <br>
 <ul>
   <li>Name</li>
