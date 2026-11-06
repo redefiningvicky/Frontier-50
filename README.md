@@ -6,7 +6,7 @@ Gemini, Clay <p>
 ## 🔀 Workflow <br>
 Gemini → Clay <p>
 ## ⚙️ Model <br>
-Gemini 3 <p>
+Gemini 3 Models <p>
 ## 🗄️ Columns <br>
 <ul>
   <li>Name</li>
