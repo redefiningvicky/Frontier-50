@@ -49,6 +49,10 @@
   <strong>Model:</strong> Gemini 3 Models (2026)
 </p>
 
+<p>
+  <strong>Format:</strong> CSV File
+</p>
+
 <hr>
 
 <h2 id="dataset">🗄️ Dataset</h2>
