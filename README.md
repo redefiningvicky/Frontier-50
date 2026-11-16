@@ -119,10 +119,6 @@
 <div align="center">
 
   <p>
-    <a href="https://github.com/redefiningvicky/GTM-Projects">
-      Back to GTM Projects
-    </a>
-    &nbsp; • &nbsp;
     <a href="https://github.com/redefiningvicky/redefiningvicky">
       Back to Portfolio
     </a>
